@@ -2,3 +2,9 @@ header {
     background-color: #424E61;
     color: rgb(255, 255, 255);
 }
+.imagem-cabecalho{
+display: flex;
+width: 80%;
+line-height: 200%;
+content-visibility: 12%;
+}
